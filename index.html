@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MyApp</title>
+
+    <script src="jspm_packages/npm/angular2@2.0.0-beta.11/es6/dev/src/testing/shims_for_IE.js"></script><!-- this shim is needed if you support IE up to v11 (1 before Edge) -->
+
+    <script src="jspm_packages/system.js"></script>
+    <script src="config.js"></script>
+    <script>
+        System.import('app/bootstrap')
+                .then(null, console.error.bind(console));
+    </script>
+</head>
+<body>
+ <my-app></my-app>
+</body>
+</html>

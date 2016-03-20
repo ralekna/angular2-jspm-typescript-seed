@@ -1,0 +1,31 @@
+{
+  "name": "angular2-jspm-typescript-seed",
+  "version": "1.0.0",
+  "description": "Angular2 JSPM Typescript minimal project seed with working MyApp example from Angular.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ng2",
+    "angular2",
+    "jspm",
+    "typescript",
+    "system.js"
+  ],
+  "author": "Rytis Alekna",
+  "license": "MIT",
+  "devDependencies": {
+    "jspm": "^0.16.31"
+  },
+  "jspm": {
+    "dependencies": {
+      "angular2": "npm:angular2@^2.0.0-beta.11",
+      "es6-shim": "github:es-shims/es6-shim@^0.35.0",
+      "reflect-metadata": "npm:reflect-metadata@^0.1.3"
+    },
+    "devDependencies": {
+      "typescript": "npm:typescript@^1.6.2"
+    }
+  }
+}
