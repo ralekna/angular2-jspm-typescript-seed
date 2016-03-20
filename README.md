@@ -10,6 +10,10 @@ This project provides minimal installation for:
 
 Works with IE9+
 
+## Running demo
+
+[http://ralekna.github.io/angular2-jspm-typescript-seed](http://ralekna.github.io/angular2-jspm-typescript-seed)
+
 ## Steps for quick use
 
 - clone this project into you computer
@@ -101,3 +105,4 @@ Works with IE9+
 - install [http-server](https://github.com/indexzero/http-server) by running `npm install -g http-server` (if you don't have) and run `http-server .` (if root folder is your public folder). Run `http-server my-public-files/` if your public files are stored in some subdirectory.
 
 - You should see working example in browser if you navigate to 127.0.0.1:8080
+
