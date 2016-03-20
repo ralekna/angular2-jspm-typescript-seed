@@ -10,10 +10,6 @@ This project provides minimal installation for:
 
 Works with IE9+
 
-## Running demo
-
-[http://ralekna.github.io/angular2-jspm-typescript-seed](http://ralekna.github.io/angular2-jspm-typescript-seed)
-
 ## Steps for quick use
 
 - clone this project into you computer
